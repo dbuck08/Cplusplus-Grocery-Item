@@ -14,9 +14,9 @@ Menu Option Two:
     Print the list with numbers that represent the frequency of all items purchased.
     The screen output should include every item (represented by a word) paired with the number of times that item appears in the input file, CS210_Project_Three_Input_File.txt. For example, the file might read as follows:
 
-Potatoes 4
-Pumpkins 5
-Onions 3
+    Potatoes 4
+    Pumpkins 5
+    Onions 3
 
 Menu Option Three:
 
