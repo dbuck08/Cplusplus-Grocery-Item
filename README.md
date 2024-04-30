@@ -24,9 +24,9 @@ Menu Option Three:
     Then print the name, followed by asterisks or another special character to represent the numeric amount.
     The number of asterisks should equal the frequency read from the CS210_Project_Three_Input_File.txt file. For example, if the file includes 4 potatoes, 5 pumpkins, and 3 onions, then your text-based histogram may appear as represented below. However, you can alter the appearance or color of the histogram in any way you choose:
 
-Potatoes ****
-Pumpkins *****
-Onions ***
+    Potatoes ****
+    Pumpkins *****
+    Onions ***
 
 Menu Option Four:
 
